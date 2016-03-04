@@ -23,7 +23,6 @@ public class ContactUsFormTest {
         positiveTest.clickLtButton();
         positiveTest.setSleep(1000);
 
-
         //setting field values
         positiveTest.setTopicSelect(1);
         positiveTest.setMessageInput("This is test message for test automatization task.");
